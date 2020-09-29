@@ -1,3 +1,6 @@
+This fork added support for decrypting a SAML response based on a customer provided certificate (via a configuration value)
+
+
 SAML Authentication service
 ===========================
 
